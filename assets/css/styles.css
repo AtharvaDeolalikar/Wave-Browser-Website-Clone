@@ -39,27 +39,13 @@
   }
 }
 
-@media (min-width: 450px) {
-  .text_buttons {
-    width: 400px;
-    margin-left: 50%;
-    transform: translate(-200px,0);
-  }
+.text_buttons {
+  width: 400px;
 }
 
 @media (max-width: 450px) {
   .text_buttons {
     width: 300px;
-  }
-}
-
-@media (max-width: 450px) {
-  .title-2 {
-    font-family: 'Poppins';
-    font-weight: bold;
-    padding-top: 20px;
-    font-size: 18px;
-    color: white;
   }
 }
 
@@ -79,20 +65,10 @@
 }
 
 @media (max-width: 450px) {
-  .app-btns {
-    width: 200px;
-    height: 67px;
-    /*border: 10px solid white;*/
-    /*border-radius: 10px;*/
-  }
-}
-
-@media (max-width: 450px) {
   .btns-icons {
     display: flex;
     flex-direction: column;
-    padding-bottom: 10px;
-    padding-top: 10px;
+    /*align-items: center;*/
   }
 }
 
@@ -111,7 +87,7 @@
 }
 
 .colors {
-  margin-top: -1400px;
+  margin-top: -900px;
   /*z-index: -21111;*/
   padding-bottom: 200px;
 }
@@ -130,21 +106,21 @@
 
 .col2 {
   background: #ff0730;
-  height: 245vh;
+  height: 175vh;
 }
 
 .col1 {
-  height: 230vh;
+  height: 160vh;
   background: #ffb700;
 }
 
 .col3 {
   background: #00a2ff;
-  height: 260vh;
+  height: 190vh;
 }
 
 .color-col {
-  box-shadow: 0px 25px 15px -15px #dedede;
+  box-shadow: 0px 11px 16px rgb(217,217,217);
 }
 
 @media (max-width: 450px) {
