@@ -3,4 +3,4 @@ This repository contains the assets of the cloned website of [joinwave.app](http
 
 Checkout the **Live Demo** by clicking [here!](https://atharvadeolalikar.github.io/Wave-Browser-Website-Clone/).
 
-Download the Bootstrap Studio [.bsdesign](/Wave-Browser-Clone.bsdesign) file.
+Download the Bootstrap Studio [.bsdesign](/Wave Browser Website Clone.bsdesign) file.
