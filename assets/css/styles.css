@@ -1,0 +1,86 @@
+.title {
+  font-family: 'Poppins';
+  font-size: 170px;
+  font-weight: bold;
+  color: #ffffff;
+  line-height: 180px;
+  padding-bottom: 20px;
+  padding-top: 30px;
+  /*letter-spacing: -2px;*/
+}
+
+.paragraph {
+  font-family: 'Poppins';
+  font-size: 19px;
+  color: white;
+  font-weight: 500;
+}
+
+.text_buttons {
+  width: 400px;
+}
+
+.title-2 {
+  font-family: 'Poppins';
+  font-weight: bold;
+  padding-top: 20px;
+  z-index: 11;
+  color: white;
+}
+
+.app-btns {
+  width: 150px;
+  height: 47px;
+  /*border: 10px solid white;*/
+  /*border-radius: 10px;*/
+}
+
+.btns-icons {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.star-icon {
+  font-size: 13px;
+  color: white;
+  padding-left: 3px;
+}
+
+.colors {
+  margin-top: -900px;
+  /*z-index: -21111;*/
+  padding-bottom: 200px;
+}
+
+.content {
+  position: relative;
+  z-index: 1;
+  padding-top: 140px;
+}
+
+.logo {
+  width: 90px;
+  height: 90px;
+  border-radius: 22px;
+}
+
+.col2 {
+  background: #ff0730;
+  height: 175vh;
+}
+
+.col1 {
+  height: 160vh;
+  background: #ffb700;
+}
+
+.col3 {
+  background: #00a2ff;
+  height: 190vh;
+}
+
+.color-col {
+  box-shadow: 0px 11px 16px rgb(217,217,217);
+}
+
